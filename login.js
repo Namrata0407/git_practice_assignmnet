@@ -5,7 +5,7 @@ if(num%i==0){
 factor++;
 }
 }
-if(factor==1){
+if(factor==2){
 console.log("Prime");
 }else{
 console.log("Not prime");
